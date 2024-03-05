@@ -1,0 +1,14 @@
+.nav{
+
+}
+.main
+{
+    background-image: url("Home.jpg");
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+   height: 100vh;
+    /* background-size: cover; */
+    background-size: 100vh;
+   
+    
+}
